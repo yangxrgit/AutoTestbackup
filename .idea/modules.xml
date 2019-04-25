@@ -3,7 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AutoTest.iml" filepath="$PROJECT_DIR$/.idea/AutoTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter05/Chapter05.iml" filepath="$PROJECT_DIR$/Chapter05/Chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter5/Chapter05.iml" filepath="$PROJECT_DIR$/Chapter5/Chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6/Chapter6.iml" filepath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7/Chapter7.iml" filepath="$PROJECT_DIR$/Chapter7/Chapter7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter8/Chapter8.iml" filepath="$PROJECT_DIR$/Chapter8/Chapter8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JarvisTest/JavisTest.iml" filepath="$PROJECT_DIR$/../JarvisTest/JavisTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apptest/apptest.iml" filepath="$PROJECT_DIR$/../apptest/apptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../postman/postman.iml" filepath="$PROJECT_DIR$/../postman/postman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rrmj-admin3/rrmj3-admin.iml" filepath="$PROJECT_DIR$/../rrmj-admin3/rrmj3-admin.iml" />
     </modules>
   </component>
 </project>

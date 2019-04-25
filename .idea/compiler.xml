@@ -6,11 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="apptest" />
         <module name="Chapter05" />
+        <module name="Chapter5" />
+        <module name="Chapter6" />
+        <module name="Chapter7" />
+        <module name="Chapter8" />
+        <module name="JavisTest" />
+        <module name="postman" />
+        <module name="rrmj3-admin" />
+        <module name="selenium_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="apptest" target="1.5" />
+      <module name="AutoTest" target="1.5" />
       <module name="Chapter05" target="1.5" />
+      <module name="Chapter6" target="1.5" />
+      <module name="Chapter7" target="1.5" />
+      <module name="Chapter8" target="1.5" />
+      <module name="JavisTest" target="1.5" />
+      <module name="postman" target="1.5" />
+      <module name="rrmj3-admin" target="1.7" />
+      <module name="selenium_demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
