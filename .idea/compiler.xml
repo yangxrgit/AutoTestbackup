@@ -25,7 +25,7 @@
       <module name="Chapter6" target="1.5" />
       <module name="Chapter7" target="1.5" />
       <module name="Chapter8" target="1.5" />
-      <module name="JavisTest" target="1.5" />
+      <module name="JavisTest" target="1.8" />
       <module name="postman" target="1.5" />
       <module name="rrmj3-admin" target="1.7" />
       <module name="selenium_demo" target="1.5" />
